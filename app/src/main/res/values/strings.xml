@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppAlimentos</string>
+    <string name="tv_nombre">Nombre:</string>
+    <string name="tv_tipo">Tipo:</string>
+    <string name="tv_origen">Origen:</string>
+    <string name="tv_nutri">Nutrientes:</string>
+    <string name="tv_func">Función:</string>
+    <string name="btn_alta">Registrar Alimento</string>
+    <string name="btn_limpiar">Limpiar Datos</string>
+    <string name="btn_consulta">Consultar Alimento</string>
+    <string name="toast_main_campos_vacios">Todos los campos tienen que estar rellenados</string>
+    <string name="toast_main_insertado">Se ha insertado el alimento correctamente</string>
+    <string name="toast_main_insertado_error">Se ha producido un error al intentar crear</string>
+    <string name="toast_main_nombre_req">Se necesita un nombre para hacer la consulta</string>
+    <string name="btn_borrar">Borrar</string>
+    <string name="toast_datos_no_existe">No existe un alimento con este nombre</string>
+    <string name="datos_borrar_confirmar">¿Seguro que quiere borrarlo?</string>
+    <string name="toast_datos_borrado">El alimento a sido borrado</string>
+    <string name="toast_datos_borrado_error">Se ha producido un error al intentar borrar</string>
+    <string name="btn_volver">Volver</string>
+</resources>
